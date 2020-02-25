@@ -2,7 +2,7 @@ timezone: Europe/Amsterdam
 
 exclude: [Gemfile, Gemfile.lock, bin/]
 
-url: https://dealerdirect.github.io
+url: https://contrib.pother.ca
 
 baseurl: /Memes
 
